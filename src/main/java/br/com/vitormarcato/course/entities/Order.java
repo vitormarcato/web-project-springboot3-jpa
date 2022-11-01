@@ -41,7 +41,7 @@ public class Order implements Serializable {
 	@OneToMany(mappedBy = "id.order")
 	private Set<OrderItem> items = new HashSet<>();
 	
-	//Um pedido pode não ter pagamento, além disso pagamento e pedido devem ter o mesmo id.
+//	Um pedido pode não ter pagamento, além disso pagamento e pedido devem ter o mesmo id.
 	@OneToOne(mappedBy = "order", cascade = CascadeType.ALL)
 	private Payment payment;
 	
@@ -100,6 +100,14 @@ public class Order implements Serializable {
 		this.payment = payment;
 	}
 
+	public Double getTotal() {
+		double sum = 0.0;
+		for (OrderItem x : items) {
+			sum += x.getSubtotal();
+		}
+		return sum;
+	}
+	
 	@Override
 	public int hashCode() {
 		return Objects.hash(id);

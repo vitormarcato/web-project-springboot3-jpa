@@ -1,4 +1,4 @@
-# Web Project Spring Boot
+# Web Project Spring Boot - Retail platform
 
 Back-end project of a web application using the Java language with Spring Boot.
 The project performing a CRUD (Create, Retrieve, Update, Delete) on the relational database through REST API.

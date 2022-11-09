@@ -14,6 +14,7 @@ https://www.udemy.com/course/java-curso-completo/
 | -------------  | --- |
 | :sparkles: Nome        | **Web Project Spring Boot**
 | :label: Tecnologias | java, jpa / hibernate, postman, maven, postgreSQL, H2, spring boot
+| :rocket: URL         | https://github.com/vitormarcato/web-project-springboot3-jpa
 
 ### Demo
 ---

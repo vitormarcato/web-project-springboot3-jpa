@@ -16,7 +16,6 @@ https://www.udemy.com/course/java-curso-completo/
 
 ### Demo
 ---
-<img src="https://media.giphy.com/media/pIlauUMGVf7ZWuRKac/giphy.gif#vitrinedev">
 
 
 ### Why

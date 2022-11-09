@@ -53,6 +53,10 @@ The database is Postgres and H2 for testing.
 ### Diagrams
 ---
 
+<img src="https://i.ibb.co/MS9P9gZ/Domain-Model.png" alt="Domain-Model" border="0">
+
+<img src="https://i.ibb.co/3WDkmqS/Logical-Layers.png" alt="Logical-Layers" border="0">
+
 ### Prerequisites
 ---
 

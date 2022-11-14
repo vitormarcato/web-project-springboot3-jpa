@@ -10,10 +10,6 @@ The project performing a CRUD (Create, Retrieve, Update, Delete) on the relation
 | :label: Tecnologias | java, jpa / hibernate, postman, maven, postgreSQL, H2, spring boot
 | :rocket: URL         | https://github.com/vitormarcato/web-project-springboot3-jpa
 
-### Demo
----
-
-
 ### Why
 ---
 

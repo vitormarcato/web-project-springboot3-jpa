@@ -3,12 +3,6 @@
 Back-end project of a web application using the Java language with Spring Boot.
 The project performing a CRUD (Create, Retrieve, Update, Delete) on the relational database through REST API.
 
-The project is part of the course: Complete Java Object Oriented Programming + Projects by Nelio Alves that was obtained on the Udemy platform.
-
-https://github.com/acenelio
-
-https://www.udemy.com/course/java-curso-completo/
-
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -92,3 +86,9 @@ java CourseApplication
 Vitor Marcato
 
 https://www.linkedin.com/in/vitormarcato/
+
+The project is part of the course: Complete Java Object Oriented Programming + Projects by Nelio Alves that was obtained on the Udemy platform.
+
+https://github.com/acenelio
+
+https://www.udemy.com/course/java-curso-completo/

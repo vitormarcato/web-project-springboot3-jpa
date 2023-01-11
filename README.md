@@ -4,7 +4,7 @@ Back-end project of a web application using the Java language with Spring Boot.
 The project performing a CRUD (Create, Retrieve, Update, Delete) on the relational database through REST API.
 
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/vitormarcato/project/web-project-springboot3-jpa/1606869   |
 | -------------  | --- |
 | :sparkles: Nome        | **Web Project Spring Boot**
 | :label: Tecnologias | java, jpa / hibernate, postman, maven, postgreSQL, H2, spring boot
@@ -44,7 +44,7 @@ The database is Postgres and H2 for testing.
 ### Diagrams
 ---
 
-<img src="https://i.ibb.co/MS9P9gZ/Domain-Model.png" alt="Domain-Model" border="0">
+<img src="https://i.ibb.co/MS9P9gZ/Domain-Model.png#vitrinedev" alt="Domain-Model" border="0">
 
 <img src="https://i.ibb.co/3WDkmqS/Logical-Layers.png" alt="Logical-Layers" border="0">
 
